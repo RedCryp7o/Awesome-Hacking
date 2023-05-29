@@ -94,6 +94,4 @@ Follow **Hack with GitHub** on your favorite social media to get daily updates o
  - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
  - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
 
-## Contributions
 
-Please have a look at [contributing.md](contributing.md)
